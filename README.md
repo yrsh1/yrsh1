@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with Developer.
-- 💬 Ask me about 
+- 💬 Ask me about something! 
 - 📫 How to reach me: 1tizsutsush1@gmail.com
-- 😄 Pronouns: yoshi
+- 😄 Pronouns: yoshi.
 - ⚡ Fun fact: I am textrovert.
 
